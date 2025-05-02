@@ -1,6 +1,8 @@
 # wrk
 A Go module for complex work/job systems with advanced controls
 
+> go get github.com/clickermonkey/wrk
+
 ```mermaid
 flowchart TD
         Queued(["Handle.Queue"])
